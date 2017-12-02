@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Mighty Jekyll vs. The Great Gatsby
 
